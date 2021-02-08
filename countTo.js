@@ -1,4 +1,4 @@
-
+//https://stackoverflow.com/questions/42111183/count-to-in-viewport
 function countUp() {
     $('.count').each(function() {
         $(this).prop('Counter', 0).animate({
